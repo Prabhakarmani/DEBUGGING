@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DEBUGGING</string>
+    <string name="action_settings">Settings</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_id">ca-app-pub-1378011681827124/6903446090</string>
+    <string name="admob_interstitial_id">ca-app-pub-1378011681827124/7086209692</string>
+</resources>
